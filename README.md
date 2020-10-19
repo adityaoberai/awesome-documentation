@@ -51,6 +51,7 @@ Below, you can find the table of contents with each heading in the list corressp
 ## API/SDK
 
 - [Stripe API Reference](https://stripe.com/docs/api)
+- [GitHub REST API Docs](https://docs.github.com/en/free-pro-team@latest/rest)
 - Need more suggestions, checkout issues and contribute yours.
 
 ## Neat ways of versioning the docs
